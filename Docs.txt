@@ -1,0 +1,37 @@
+User registration
+User login
+Get Todo List
+Todo creation
+Todo updation
+Todo Deletion
+User Logout
+
+
+
+
+
+
+USER table
+
+    Data details
+    ---------------------
+    id
+    User name
+    password
+    creation date
+    status : "active || "inactive"
+    ------------------------ 
+
+TODO List
+
+    Data details
+    ---------------------
+    Todo id
+    user id
+    title
+    description
+    status : "New" || "Progress" || "Pending" || "Completed" || "cancelled"
+    Creation time
+    completion Time
+    ----------------------
+
