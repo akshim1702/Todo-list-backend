@@ -56,5 +56,9 @@ foreign key (user_id) REFERENCES user(id)
 
 desc todo;
 
+select * from todo;
+
+##insert todo
+insert into todo values(1,'First task','described','new','2024-11-28 10:25:00','2024-11-28 10:25:00',1);
 
 
